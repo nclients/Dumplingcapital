@@ -330,8 +330,8 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: ""
-  metaDescription: "" 
+  metaTitle: "Dumpling capital，a Chinese dumpling restaurant in Santa Clara"
+  metaDescription: "Discover Dumpling Capital in Santa Clara, where authentic Chinese dumplings are crafted with care. Experience a delightful culinary journey today!Online order Now！" 
   keywords: ""
   img: ""
   thisPageUrl: ""

@@ -326,12 +326,12 @@ footer:
   uberEatsLink: ""
 
   acceptedPaymentMethodsInsteadText: ""
-  paymentMethod: "visa,amex,cash,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  paymentMethod: "visa,amex,applePay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Dumplings and Northern Style Dim-Sum in Santa Clara"
-  metaDescription: "" 
+  metaTitle: "Dumpling capital，a Chinese dumpling restaurant in Santa Clara"
+  metaDescription: "Discover Dumpling Capital in Santa Clara, where authentic Chinese dumplings are crafted with care. Experience a delightful culinary journey today!Online order Now！" 
   keywords: "dumping，chinese food，Santa Clara"
   img: ""
   thisPageUrl: ""
