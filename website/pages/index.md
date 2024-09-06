@@ -334,7 +334,7 @@ seo:
   metaDescription: "Discover Dumpling Capital in Santa Clara, where authentic Chinese dumplings are crafted with care. Experience a delightful culinary journey today!Online order Now！" 
   keywords: "dumping，chinese food，Santa Clara"
   img: ""
-  thisPageUrl: ""
+  thisPageUrl: "https://dumpling-capital.com/"
   locale: "en_US" # zh_TW | zh_CN
 ---
 <!-- hello world -->
