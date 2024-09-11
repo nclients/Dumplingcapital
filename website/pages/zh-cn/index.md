@@ -174,7 +174,7 @@ sections:
     description: 
       - "Dumpling Capital 水饺之都位于I-280和Stevens Creek出口附近的一个小型购物中心内。我们是一家家族企业。我们的特色拿手菜是手工制作的饺子和点心。我们提供20多种口味的饺子和北方点心。"
     descriptionColor: "#000000"
-
+    isTextAlignCenter: true
     addOrderOnlineBtn: false
     orderOnlineBtnInsteadText: ""
     addTableReservationBtn: false
@@ -290,7 +290,7 @@ footer:
   mode: 1 # 1
   noMarginTop: true
   bgImg: ""
-  bgColor: "#f3f4f6"
+  bgColor: "#ffffff"
   bgOpacity: "1" # 0~1
   textColor: "#000000" # default white
 

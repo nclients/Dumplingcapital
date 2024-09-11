@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /$
+Allow: /zh-cn/$
+Allow: /gallery/
+Allow: /gallery2/
+Allow: /robots.txt
+Allow: /sitemap.xml
+Disallow: /
+Sitemap: https://dumpling-capital.com/sitemap.xml

@@ -177,7 +177,7 @@ sections:
     description: 
       - "Dumpling Capital 水饺之都 is located in a small stripped mall near the exit of I-280 and Stevens Creek. We are a family owned business. Our handmade dumplings and dim-sum are our specialties. We serve over 20 flavors of dumplings and northern style Dim-Sum."
     descriptionColor: "#000000"
-
+    isTextAlignCenter: true
     addOrderOnlineBtn: false
     orderOnlineBtnInsteadText: ""
     addTableReservationBtn: false
@@ -293,7 +293,7 @@ footer:
   mode: 1 # 1
   noMarginTop: true
   bgImg: ""
-  bgColor: "#f3f4f6"
+  bgColor: "#ffffff"
   bgOpacity: "1" # 0~1
   textColor: "#000000" # default white
 
