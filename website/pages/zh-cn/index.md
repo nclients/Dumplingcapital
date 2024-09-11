@@ -1,6 +1,7 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
-tag: "GTM-"
+tag: ""
+googleSiteVerification: "HuFtdepWPDwDRSBLGjmObtVdLrR24p4-d5NSvyc4pzw" 
 title: "Dumpling Capital 水饺之都 - Best Food Today"
 favicon: "icon.ico"
 logo: "logo.jpeg"
