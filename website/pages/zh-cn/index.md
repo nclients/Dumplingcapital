@@ -11,7 +11,7 @@ secondaryColorScheme: "light"
 cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=7b1bff94-3812-40e5-bc47-9dea43a92302"
-tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=7b1bff94-3812-40e5-bc47-9dea43a92302&reservation=true&client_is_mobile=true"
+tableReservationLink: ""
 tel: "408-249-9888"
 
 # banner:
@@ -24,9 +24,10 @@ tel: "408-249-9888"
 
 # header
 header:
-  logoSize: 45
+  logoSize: 65
+  logoSizeOnMobile: 50
   textAfterLogo: 
-    text: "Dumpling Capital 水饺之都"
+    text: ""
     size: 16
     color: ""
   showTextAfterLogoOnMobile: false
@@ -50,7 +51,7 @@ header:
 
   otherBtn1InsteadText: "线上订餐"
   otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=7b1bff94-3812-40e5-bc47-9dea43a92302"
-  otherBtn2InsteadText: "预定"
+  otherBtn2InsteadText: ""
   otherBtn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=7b1bff94-3812-40e5-bc47-9dea43a92302&reservation=true&client_is_mobile=true"
 
 sections:
@@ -85,10 +86,10 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
 
-    btn1Text: ""
-    btn1Href: "" 
-    btn2Text: "" 
-    btn2Href: "" 
+    btn1Text: "线上订餐"
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=7b1bff94-3812-40e5-bc47-9dea43a92302" 
+    btn2Text: "预定" 
+    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=7b1bff94-3812-40e5-bc47-9dea43a92302&reservation=true&client_is_mobile=true" 
 
     bannerImg: "sample.webp"
     imgPosition: "imgLeft" # imgLeft | imgRight
@@ -107,7 +108,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Dumpling Capital水饺之都的点心"
+      - "Dumpling Capital 水饺之都的点心"
     titleColor: "#000000"
     description: 
       - ""
@@ -125,7 +126,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Dumpling Capital水饺之都的菜品"
+      - "Dumpling Capital 水饺之都的菜品"
     titleColor: "#000000"
     description: 
       - ""
@@ -139,12 +140,12 @@ sections:
   - type: "video"
     id: ""
     title: 
-      - "欢迎来到Dumpling Captial水饺之都"
+      - "欢迎来到 Dumpling Captial 水饺之都"
     description: 
       - "" 
-    videoType: "youtube" # vimeo | gjw | youtube
+    videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
-      - "Czjy5RoKLj0"
+      - "1h0kjdgfui115u2rfRMWobEnk1731c"
     
     isOnlyDisplayOnMobile: false
 
@@ -171,7 +172,7 @@ sections:
       - "关于我们"
     titleColor: "#000000"
     description: 
-      - "Dumpling Capital水饺之都位于I-280和Stevens Creek出口附近的一个小型购物中心内。我们是一家家族企业。我们的特色拿手菜是手工制作的饺子和点心。我们提供20多种口味的饺子和北方点心。"
+      - "Dumpling Capital 水饺之都位于I-280和Stevens Creek出口附近的一个小型购物中心内。我们是一家家族企业。我们的特色拿手菜是手工制作的饺子和点心。我们提供20多种口味的饺子和北方点心。"
     descriptionColor: "#000000"
 
     addOrderOnlineBtn: false
@@ -244,7 +245,7 @@ sections:
   - type: "textBlock" 
     noMarginTop: false
     id: ""
-    bgImg: "background_image.webp"
+    bgImg: "/background_image.webp"
     bgColor: "#000"
     bgOpacity: "0.2" # 0~1
     title: 
@@ -295,13 +296,14 @@ footer:
 
   openingHoursInsteadText: "营业时间"
   openingHours: 
-    - "周一～周五"
+    - "周一 ～ 周五"
     - "11:00 AM - 2:30 PM, 5:00 PM - 9:00 PM"
-    - "周六 - 周日"
+    - "周六 ～ 周日"
     - "11:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
   
   isLogo: true
-  logoSize: 100
+  logoSize: 70
+  logoSizeOnMobile: 55
  
   # menu:
   #   - { text: "Home", link: "/" }
@@ -330,11 +332,9 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Dumpling capital，a Chinese dumpling restaurant in Santa Clara"
-  metaDescription: "Discover Dumpling Capital in Santa Clara, where authentic Chinese dumplings are crafted with care. Experience a delightful culinary journey today!Online order Now！" 
-  keywords: ""
-  img: ""
-  thisPageUrl: "https://dumpling-capital.com/"
-  locale: "en_US" # zh_TW | zh_CN
+  metaTitle: "Dumpling Capital 水饺之都｜圣克拉拉的一家中国饺子馆"
+  metaDescription: "探索位于圣塔克拉拉的Dumpling Capital 水饺之都，这里精心制作正宗的中式饺子。立即开启美味之旅，立刻在线订购吧！" 
+  canonicalHref: "https://dumpling-capital.com/" # https://example.com/
+  locale: "zh_CN" # zh_TW | zh_CN
 ---
 <!-- hello world -->
