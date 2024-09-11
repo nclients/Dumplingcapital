@@ -146,9 +146,9 @@ sections:
       - "水饺之都"
     description: 
       - "" 
-    videoType: "youtube" # vimeo | gjw | youtube
+    videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
-      - "Czjy5RoKLj0"
+      - "1h0kjdgfui115u2rfRMWobEnk1731c"
     
     isOnlyDisplayOnMobile: false
 
