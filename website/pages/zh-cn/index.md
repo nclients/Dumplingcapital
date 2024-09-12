@@ -62,7 +62,7 @@ sections:
     height: "70" # Conditionally use only when sectionType is imgBg
     sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
-    bgVideoId: "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
+    bgVideoId: "1fmpt6akmhu61e3v9lR8DUES51ff1c"
     bgImg: "beijing1.jpeg"
     bgColor: "#000000"
     bgOpacity: "0.6" # 0~1
@@ -146,7 +146,7 @@ sections:
       - "" 
     videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
-      - "1h0kjdgfui115u2rfRMWobEnk1731c"
+      - "1fmpt6akmhu61e3v9lR8DUES51ff1c"
     
     isOnlyDisplayOnMobile: false
 
