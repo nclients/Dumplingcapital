@@ -121,7 +121,7 @@ sections:
 
 # Gallery  
   - type: "gallery"
-    id: "gallery"
+    id: "gallery-2"
     mode: 3 # 1 - 3
     bgImg: ""
     bgColor: ""
