@@ -190,6 +190,7 @@ sections:
     btn2Href: "" 
 
     bannerImg: "店.jpeg"
+    bannerImgAlt: "Dumpling Capital storefront with a green sign, red and yellow walls and an Open sign"
     imgPosition: "imgLeft" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "md" # sm | md | lg | xl | 2xl | 3xl | full

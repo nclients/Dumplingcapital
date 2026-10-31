@@ -187,6 +187,7 @@ sections:
     btn2Href: "" 
 
     bannerImg: "店.jpeg"
+    bannerImgAlt: "水饺之都店面，绿色招牌，红黄相间的外墙，亮着营业中的灯牌"
     imgPosition: "imgLeft" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "md" # sm | md | lg | xl | 2xl | 3xl | full
